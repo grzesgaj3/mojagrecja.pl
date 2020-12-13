@@ -625,25 +625,25 @@ xclip
 }
 .right-box-pro .card-back {
     width: 100%;
-    height: 100%;
+    height: 80%;
     padding: 30px;
     border-radius: 10px;
-    margin: -390px 0px 0px 30px;
+    margin: -350px 0px 0px 30px;
     background-color: #241c65;
     z-index: 1;
     position: relative;
 }
 
 .right-box-pro .card-front {
-    width: 100%;
-    height: 100%;
-    padding: 30px;
+    width: 90%;
+    height: 90%;
+    padding: 20px;
     border-radius: 10px;
     margin: -320px 0px 0px -36px;
     background-color: transparent;
     border: solid 2px #241c65;
     z-index: 1;
-    position: relative;
+    position: static;
 }
 
 .services-inner-box{
@@ -835,7 +835,6 @@ xclip
 }
 
 .desc {
-    font-family: lato;
     padding: 30px;
     position: relative;
     background: #241c65;
